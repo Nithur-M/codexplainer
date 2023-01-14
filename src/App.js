@@ -73,7 +73,7 @@ function App() {
     }, []);
   return (
     <Flex direction="column" gap="2">
-      <Text fontSize="lg" fontWeight="medium">GMAIL GPT-3</Text>
+      <Text fontSize="lg" fontWeight="medium">Codexplainer</Text>
       <Text>API key:</Text>
       <Input name="apiKey" type="password" placeholder='Your OpenAI API key' onChange={updateConfig} value={config.apiKey} />
       
