@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/49608085/212458992-76b779e2-baae-4937-
 5. Select the `build` folder
 
 ### 2. Provide your OpenAi API key:
-1. Go to OpenAI's website and obtain your API key.
+1. Go to [OpenAI's](https://openai.com/api/) website and obtain your API key.
 2. Click on the extension's icon
 3. Paste your key on the key field
 
