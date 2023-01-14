@@ -90,7 +90,7 @@ function App() {
           </Flex>
           <Slider name="maxTokens" min={1} max={4000} value={config.maxTokens} onChange={maxTokensSliderChange}>
             <SliderTrack>
-              <SliderFilledTrack bg='#FCC419' />
+              <SliderFilledTrack />
             </SliderTrack>
             <SliderThumb />
           </Slider>
